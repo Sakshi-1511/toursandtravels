@@ -36,7 +36,7 @@
 	
 	</section>
 </header>
-<section id="3" class="filter-gallery">
+<section  class="filter-gallery">
 	<div class="portfolio-menu">
 		<ul>
 			<li class="active" data-filter="*">All</li>
@@ -78,9 +78,9 @@
 	</div>
 	
 </section>
-<section id="2"class="member" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="100">
+<section id="2"class="member" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="100" >
 	
-	<div class="member-card" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="200">
+	<div class="member-card" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="200" >
 		<h1 class="member-info" font-size="42px" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="300"><b>About Us</b></h1><br>
 		<center><img src="images/person.jpg" width="200" height="200" ><!--icon photo--></center>
 				<p>
@@ -95,7 +95,7 @@ No matter where you want to go or what you want to do, we make it easy and backs
 
 	
 		
-	</div></section><section>		<br><br><h1 class="member-info" font-size="42px" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="300"><b>OUR HAPPY CUSTOMERS</b></h1><br><br>
+	</div></section><section>		<br><br><h1 class="member-info"  font-size="50px" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="300" ><b>OUR HAPPY CUSTOMERS</b></h1><br><br>
 	<div class="m-images" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="100">
 
 		<img src="images/p2.jpg">
